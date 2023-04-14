@@ -16,11 +16,12 @@ git commit -m "first commit"
 
 =========(01)=============
 
-
-<h2>
-    <p>اضافة برانش</p>
-    git branch (fff)
-</h2>
+<div>
+    //a = {اضافة برانش}
+    <h2 style="color: green;">
+        git branch (fff)
+    </h2>
+</div>
 
 //a = {حذف برانش}
 git branch -D (fff)
