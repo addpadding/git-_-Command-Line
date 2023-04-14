@@ -15,35 +15,37 @@ git commit -m "first commit"
 
 =========(01)=============
 
-اضافة برانش
+//a = {اضافة برانش}
 git branch (fff)
 
-حذف برانش
+
+//a = {حذف برانش}
 git branch -D (fff)
 
-// سويتش
+//a = {سويتش}
 git checkout (fff)
 
 =========(02)=============
-// رابط الموقع
+
+//a = {رابط الموقع}
 git remote -v
 
-// حذف رابط الموقع
+//a = {حذف رابط الموقع}
 git remote remove origin
 
-اضف رابط الموقع
+//a = {اضف رابط الموقع}
 git remote add origin https://github.com/(fff)
 
 =========(03)=============
 
-// احصائيات
+//a = {احصائيات}
 git log --oneline
 
-// ادمج
+//a = {ادمج}
 git merge (fff)
 
 =========(04)=============
 
-// اضف
+//a = {اضف}
 git push origin master
 git push origin head
