@@ -16,10 +16,10 @@ git commit -m "first commit"
 
 =========(01)=============
 
-<div>
-//a = {اضافة برانش}
+
 <h2>
-git branch (fff)
+    <p>اضافة برانش</p>
+    git branch (fff)
 </h2>
 
 //a = {حذف برانش}
@@ -39,7 +39,6 @@ git remote remove origin
 //a = {اضف رابط الموقع}
 git remote add origin https://github.com/(fff)
 
-</div>
 
 =========(03)=============
 
