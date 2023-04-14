@@ -18,39 +18,72 @@ git commit -m "first commit"
 
 <div>
     //a = {اضافة برانش}
-    <h2 style="color: green;">
+    <h2>
         git branch (fff)
     </h2>
 </div>
 
-//a = {حذف برانش}
-git branch -D (fff)
 
-//a = {سويتش}
-git checkout (fff)
+<div>
+    //a = { حذف برانش} }
+    <h2>
+        git branch -D (fff)
+    </h2>
+</div>
+
+<div>
+    //a = { سويتش }
+    <h2>
+        git checkout (fff)
+    </h2>
+</div>
 
 =========(02)=============
 
-//a = {رابط الموقع}
-git remote -v
+<div>
+    //a = { رابط الموقع} }
+    <h2>
+        git remote -v
+    </h2>
+</div>
 
-//a = {حذف رابط الموقع}
-git remote remove origin
+<div>
+    //a = { حذف رابط الموقع} }
+    <h2>
+        git remote remove origin
+    </h2>
+</div>
 
-//a = {اضف رابط الموقع}
-git remote add origin https://github.com/(fff)
+<div>
+    //a = { اضف رابط الموقع} }
+    <h2>
+        git remote add origin https://github.com/(fff)
+    </h2>
+</div>
 
 
 =========(03)=============
 
-//a = {احصائيات}
-git log --oneline
+<div>
+    //a = { احصائيات }
+    <h2>
+        git log --oneline
+    </h2>
+</div>
 
-//a = {ادمج}
-git merge (fff)
+<div>
+    //a = { ادمج }
+    <h2>
+        git merge (fff)
+    </h2>
+</div>
 
 =========(04)=============
 
-//a = {اضف}
-git push origin master
-git push origin head
+<div>
+    //a = { اضف }
+    <h2>
+        git push origin master
+        git push origin head
+    </h2>
+</div>
