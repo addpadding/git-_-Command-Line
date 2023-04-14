@@ -2,19 +2,21 @@
 
 =========(00)=============
 
-git init
+<div>
+    git init
 
-git status
+    git status
 
-git add .
+    git add .
 
-git branch
+    git branch
 
-git branch -M main
+    git branch -M main
 
-git commit -m "first commit"
+    git commit -m "first commit"
 
-=========(01)=============
+</div>
+<hr>
 
 <div>
     //a = {اضافة برانش}
@@ -22,7 +24,7 @@ git commit -m "first commit"
         git branch (fff)
     </h2>
 </div>
-
+<hr>
 
 <div>
     //a = { حذف برانش} }
@@ -30,6 +32,7 @@ git commit -m "first commit"
         git branch -D (fff)
     </h2>
 </div>
+<hr>
 
 <div>
     //a = { سويتش }
@@ -37,8 +40,7 @@ git commit -m "first commit"
         git checkout (fff)
     </h2>
 </div>
-
-=========(02)=============
+<hr>
 
 <div>
     //a = { رابط الموقع} }
@@ -46,6 +48,7 @@ git commit -m "first commit"
         git remote -v
     </h2>
 </div>
+<hr>
 
 <div>
     //a = { حذف رابط الموقع} }
@@ -53,6 +56,7 @@ git commit -m "first commit"
         git remote remove origin
     </h2>
 </div>
+<hr>
 
 <div>
     //a = { اضف رابط الموقع} }
@@ -60,9 +64,7 @@ git commit -m "first commit"
         git remote add origin https://github.com/(fff)
     </h2>
 </div>
-
-
-=========(03)=============
+<hr>
 
 <div>
     //a = { احصائيات }
@@ -70,6 +72,7 @@ git commit -m "first commit"
         git log --oneline
     </h2>
 </div>
+<hr>
 
 <div>
     //a = { ادمج }
@@ -77,8 +80,7 @@ git commit -m "first commit"
         git merge (fff)
     </h2>
 </div>
-
-=========(04)=============
+<hr>
 
 <div>
     //a = { اضف }
@@ -87,3 +89,4 @@ git commit -m "first commit"
         git push origin head
     </h2>
 </div>
+<hr>
