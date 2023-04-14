@@ -1,7 +1,5 @@
 # git-\_-Command-Line
 
-=========(00)=============
-
 <div>
     git init
 
