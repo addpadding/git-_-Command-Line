@@ -1,5 +1,3 @@
-# git-\_-Command-Line
-
 <div>
     git init
 
@@ -25,7 +23,7 @@
 <hr>
 
 <div>
-    //a = { حذف برانش} }
+    //a = { حذف برانش }
     <h2>
         git branch -D (fff)
     </h2>
@@ -41,7 +39,7 @@
 <hr>
 
 <div>
-    //a = { رابط الموقع} }
+    //a = { رابط الموقع }
     <h2>
         git remote -v
     </h2>
@@ -49,7 +47,7 @@
 <hr>
 
 <div>
-    //a = { حذف رابط الموقع} }
+    //a = { حذف رابط الموقع }
     <h2>
         git remote remove origin
     </h2>
@@ -57,7 +55,7 @@
 <hr>
 
 <div>
-    //a = { اضف رابط الموقع} }
+    //a = { اضف رابط الموقع }
     <h2>
         git remote add origin https://github.com/(fff)
     </h2>
